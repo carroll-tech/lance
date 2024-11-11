@@ -31,6 +31,15 @@
 *.out
 *.app
 
+# Python Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
 # Tracing files
 trace-*.json
 
